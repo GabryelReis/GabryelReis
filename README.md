@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Oi, internauta!</title>
+    <title> Oi, internauta! </title>
   </head>
   <body>
     <p>
