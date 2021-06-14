@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**GabryelReis/GabryelReis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<html>
+  <head>
+    <title>Oi!</title>
+  </head>
+  <body>
+    <p>
+      <h3>Apresentação:</h3>
+      Me chamo Gabryel, sou um estudante autodidata de programação.
+      Tenho 15 anos, sou um desenvolvedor Java e eu quero ser um desenvolvedor de sites (back-end com Java), jogos e programas para desktop.
+    </p>
+  </body>
+</html>
