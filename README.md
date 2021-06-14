@@ -1,8 +1,8 @@
 <html>
   <head>
-    <title> Oi, internauta! </title>
   </head>
   <body>
+    <h1>OI, INTERNAUTA!</h1>
     <p>
       <h3>Apresentação:</h3>
       Me chamo Gabryel, sou um estudante autodidata de programação.
