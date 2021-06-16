@@ -18,6 +18,5 @@
       RAM: 4GB
       <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpublicdomainvectors.org%2Fphotos%2FsimplePc.png&f=1&nofb=1" alt="pc" widht="50" height="50">
     </p>
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabryelReis)](https://github.com/anuraghazra/github-readme-stats)
   </body>
 </html>
