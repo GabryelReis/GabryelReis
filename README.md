@@ -20,4 +20,4 @@
     </p>
   </body>
 </html>
-[![Gabryel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabryelReis)](https://github.com/anuraghazra/github-readme-stats)
+[![Gabryel's GitHub stats](https://github-readme-stats.vercel.app/api?username=linus)](https://github.com/anuraghazra/github-readme-stats)
