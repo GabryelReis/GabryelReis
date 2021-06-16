@@ -18,9 +18,7 @@
       RAM: 4GB
       <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpublicdomainvectors.org%2Fphotos%2FsimplePc.png&f=1&nofb=1" alt="pc" widht="50" height="50"><br />
   <h3> Meus Status </h3>
-  ![Gabryel Miranda dos Reis](https://github-readme-stats.vercel.app/api?username=GabryelReis&show_icons=true&theme=radical)
+  ![GabryelReis's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabryelReis&show_icons=true&theme=radical)
     </p>
   </body>
 </html>
-## Meus Status
-
