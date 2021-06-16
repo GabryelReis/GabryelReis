@@ -21,4 +21,4 @@
   </body>
 </html>
 ## Meus Status
-![](https://github-readme-stats.vercel.app/api?username=GabryelReis&show_icons=true&theme=radical)
+![Gabryel Miranda dos Reis](https://github-readme-stats.vercel.app/api?username=GabryelReis&show_icons=true&theme=radical)
