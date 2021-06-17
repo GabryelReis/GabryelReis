@@ -16,7 +16,7 @@
       GPU: Intel 3rd Gen Core processor Graphics Controller <br />
       RAM: 4GB
       <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpublicdomainvectors.org%2Fphotos%2FsimplePc.png&f=1&nofb=1" alt="pc" widht="50" height="50"><br />
-    <h3>Tecnologias que eu conheço:</h3><br />
+    <h3>Tecnologias que eu conheço:</h3>
       <div class="box">
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.flaticon.com%2Ficons%2Fpng%2F512%2F37%2F37318.png&f=1&nofb=1" alt="github" widht="50" height="50">
   </div>
