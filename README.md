@@ -16,11 +16,12 @@
       CPU: CPU: Intel® Celeron 1007U (2) @ 1.500GHz <br />
       GPU: Intel 3rd Gen Core processor Graphics Controller <br />
       RAM: 4GB
-      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpublicdomainvectors.org%2Fphotos%2FsimplePc.png&f=1&nofb=1" alt="pc" widht="50" height="50"><br />
+      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpublicdomainvectors.org%2Fphotos%2FsimplePc.png&f=1&nofb=1" alt="pc" widht="50" height="50">
   <h3> Meus Status </h3>
     </p>
   </body>
 </html>
+
 ![GabryelReis's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabryelReis&show_icons=true&theme=radical)
 
 
