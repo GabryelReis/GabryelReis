@@ -26,6 +26,12 @@
   <div class="box">
     <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Flofrev.net%2Fwp-content%2Fphotos%2F2014%2F10%2FLinux-logo.png&f=1&nofb=1" alt="linux" widht="50" height="50">
   </div>
+  <style>
+div.box {
+width: 150px;
+display: inline-block;
+}
+</style>
   <h3> Meus Status </h3>
     </p>
   </body>
