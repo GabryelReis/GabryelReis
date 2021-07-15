@@ -6,8 +6,9 @@
     <p>
       <h3>Apresentação:</h3>
       Me chamo Gabryel, sou um estudante autodidata de programação.
-      Tenho 15 anos, sou um desenvolvedor Java e eu quero ser um desenvolvedor de sites (back-end com Java). Por enquanto, eu faço atividades utilizando o URI Online Judge e o Neps Academy. 
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftinycode.hk%2Fwp-content%2Fuploads%2F2015%2F01%2Fjava-logo-png-300x300.png&f=1&nofb=1" alt="java" widht="50" height="50">
+      Tenho 15 anos, sou um desenvolvedor Lua e eu quero ser um Game Developer. Por enquanto, eu faço atividades utilizando o URI Online Judge e o Neps Academy
+    utilizando Java e Lua. 
+    <img src="https://education.ti.com/-/media/ti/education/images/products/product-details/hero/solutions-lua-scripting-hero.png?rev=86d6e171-6c23-4554-aa8b-ad4e7588c114&h=320&w=420&la=en-AU&hash=5C7B0B42E6EFB0048771F75BD60AA87F3FA190F1" alt="java" widht="50" height="50">
     </p>
     <p>
       <h3>Meu computador:</h3>
