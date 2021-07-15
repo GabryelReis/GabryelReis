@@ -17,7 +17,7 @@
       CPU: CPU: Intel® Celeron 1007U (2) @ 1.500GHz <br />
       GPU: Intel 3rd Gen Core processor Graphics Controller <br />
       RAM: 4GB
-      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpublicdomainvectors.org%2Fphotos%2FsimplePc.png&f=1&nofb=1" alt="pc" widht="50" height="50">
+      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpublicdomainvectors.org%2Fphotos%2FsimplePc.png&f=1&nofb=1" alt="pc" widht="150" height="150">
   <h3> Meus Status </h3>
     </p>
   </body>
