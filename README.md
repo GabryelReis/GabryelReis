@@ -8,7 +8,7 @@
       Me chamo Gabryel, sou um estudante autodidata de programação.
       Tenho 15 anos, sou um desenvolvedor Lua e eu quero ser um Game Developer. Por enquanto, eu faço atividades utilizando o URI Online Judge e o Neps Academy
     utilizando Java e Lua. 
-    <img src="https://education.ti.com/-/media/ti/education/images/products/product-details/hero/solutions-lua-scripting-hero.png?rev=86d6e171-6c23-4554-aa8b-ad4e7588c114&h=320&w=420&la=en-AU&hash=5C7B0B42E6EFB0048771F75BD60AA87F3FA190F1" alt="java" widht="50" height="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" alt="java" widht="50" height="50">
     </p>
     <p>
       <h3>Meu computador:</h3>
