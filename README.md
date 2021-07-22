@@ -5,7 +5,7 @@
     <h1>Hello, world!</h1>
     <p>
       <h3>Presentation:</h3>
-      My name is Gabryel, I'm a self-taught programming student. I'm 15 years old, for now, I do activities using URI Online Judge and other Judges using C, Lua and other languages.
+      My name is Gabryel, I'm a self-taught programming student. I'm 15 years old, for now, I do activities using URI Online Judge and other Judges using C, Lua and other languages.<br />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" alt="java" widht="50" height="50">
     </p>
     <p>
